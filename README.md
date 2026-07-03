@@ -1,6 +1,6 @@
 <!-- 顶部波浪 Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&section=header&color=gradient&customColorList=12&text=Hi%2C%20I'm%20Ning%20%F0%9F%91%8B&fontSize=50&fontColor=fff&desc=Java%20Backend%20Developer%20%7C%20Building%20things%20that%20scale&descSize=18&descAlignY=65&animation=twinkling" width="100%"/>
+  <img src="assets/banner-terminal.svg" width="100%" alt="banner"/>
 </div>
 
 <!-- 打字机效果 -->
