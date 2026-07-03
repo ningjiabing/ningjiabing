@@ -58,12 +58,6 @@ public class JiaBing extends Developer {
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ningjiabing/ningjiabing/output/github-snake-dark.svg" alt="snake" />
-</p>
-
 ---
 
 ### 💡 Quote of the Day
