@@ -38,3 +38,9 @@ public class JiaBing extends Developer {
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+---
+
+### 📊 GitHub Stats
+
+<img src="https://raw.githubusercontent.com/ningjiabing/ningjiabing/main/github-stats.png" width="900" />
