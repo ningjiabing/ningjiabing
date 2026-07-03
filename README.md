@@ -90,17 +90,6 @@ public final class Ning implements Developer {
 
 ---
 
-## 📫 Reach Me
-
-<div align="center">
-  <a href="mailto:meilijing.ning@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
-  </a>
-  <a href="https://github.com/ningjiabing">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-  </a>
-</div>
-
 <!-- 底部波浪 -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=120&section=footer&color=gradient&customColorList=12&animation=twinkling" width="100%"/>
