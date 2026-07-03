@@ -1,6 +1,6 @@
 <!-- 顶部波浪 Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20Ning%20👋&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Building%20things%20that%20scale&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&section=header&color=gradient&customColorList=12&text=Hi%2C%20I'm%20Ning%20%F0%9F%91%8B&fontSize=50&fontColor=fff&desc=Java%20Backend%20Developer%20%7C%20Building%20things%20that%20scale&descSize=18&descAlignY=65&animation=twinkling" width="100%"/>
 </div>
 
 <!-- 打字机效果 -->
@@ -103,5 +103,5 @@ public final class Ning implements Developer {
 
 <!-- 底部波浪 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=120&section=footer&color=gradient&customColorList=12&animation=twinkling" width="100%"/>
 </div>
