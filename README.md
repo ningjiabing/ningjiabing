@@ -1,46 +1,47 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B+I'm+JiaBing;Backend+Developer+%7C+Game+Server" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:meilijing.ning@foxmail.com"><img src="https://img.shields.io/badge/Email-meilijing.ning@foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Shanghai%2C+China-1DA1F2?style=flat-square&logo=location&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Open_to_Collaborate-4CAF50?style=flat-square" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,100:6C63FF&height=200&section=header&text=JiaBing&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Game%20Server&descSize=18&descColor=ffffff&descAlignY=55" width="100%" />
 
----
+[![Email](https://img.shields.io/badge/Email-meilijing.ning@foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:meilijing.ning@foxmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ningjiabing-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ningjiabing)
+[![Location](https://img.shields.io/badge/Location-Shanghai-blue?style=flat-square)]()
 
-### 🚀 About Me
+</div>
 
-```java
-public class JiaBing extends Developer {
-  String name    = "JiaBing";
-  String role    = "Backend Engineer";
-  String focus   = "Game Server Development";
-  boolean coffee = true;
-}
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6IP0fb2/giphy.gif" width="50"> A little about me
+
+```yaml
+name: JiaBing
+role: Backend Engineer
+focus: Game Server Development
+languages: [Java, Spring Boot, MySQL, Redis, Linux]
+hobbies: [Gaming, Coffee, Coding]
+motto: "Code is poetry, bugs are just bad verses"
 ```
 
-- 🔭 Currently working on **game backend services**
-- 🎮 Passionate about **real-time multiplayer game architecture**
-- ☕ Fueled by **coffee and curiosity**
-- 💬 Ask me about **Java, Netty, game server optimization**
+<br>
 
----
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a8n0jsl5r0ot0uqen3ptmm4s8xd0usezm2y3g1pm&rid=giphy.gif&ct=s" width="25"> Tech Arsenal
 
-### 🛠 Tech Stack
+<div>
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<br>
 
----
+## <img src="https://media.giphy.com/media/M9gbBai9n3i3GwGVls/giphy.gif" width="25"> GitHub Activity
 
-### 📊 GitHub Stats
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ningjiabing/ningjiabing/main/github-stats.png" width="800" />
+</div>
 
-<img src="https://raw.githubusercontent.com/ningjiabing/ningjiabing/main/github-stats.png" width="900" />
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ningjiabing&color=4FC3F7&style=for-the-badge&label=PROFILE+VIEWS" />
+</div>
