@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:meilijing.ning@foxmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:meilijing.ning@foxmail.com"><img src="https://img.shields.io/badge/Email-meilijing.ning@foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Shanghai%2C+China-1DA1F2?style=flat-square&logo=location&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Open_to_Collaborate-4CAF50?style=flat-square" />
 </p>
@@ -41,27 +41,8 @@ public class JiaBing extends Developer {
 
 ---
 
-### 📊 GitHub Stats
+### 📈 Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ningjiabing&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=C9D1D9" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ningjiabing&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FC3F7&text_color=C9D1D9" />
-</p>
-
----
-
-### 🔥 Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ningjiabing&theme=tokyonight&hide_border=true&background=0D1117&stroke=4FC3F7&ring=4FC3F7&fire=FF6347&currStreakLabel=4FC3F7" />
-</p>
-
----
-
----
-
-### 💡 Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FC3F7&text_color=C9D1D9" />
+  <a href="https://github.com/ningjiabing"><img src="https://activity-graph.herokuapp.com/graph?username=ningjiabing&bg_color=0D1117&color=4FC3F7&line=4FC3F7&point=FFFFFF&hide_border=true" /></a>
 </p>
