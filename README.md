@@ -6,7 +6,7 @@
 <!-- 打字机效果 -->
 <div align="center">
   <a href="https://github.com/ningjiabing">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+%2F+Spring+Boot+Backend+Engineer;Distributed+Systems+Enthusiast;WebSocket+%2F+High+Concurrency+Lover;Always+learning%2C+always+shipping+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+%2F+Spring+Boot+Backend+Engineer;Distributed+Systems+Enthusiast;WebSocket+%2F+High+Concurrency+Lover;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
