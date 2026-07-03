@@ -29,13 +29,6 @@
 
 - 🔥 **Game Backend Services** — Real-time multiplayer game server built with Java & Netty
 
-## 📈 GitHub Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ningjiabing/ningjiabing/main/github-stats.png">
-  <img alt="GitHub Stats" src="https://raw.githubusercontent.com/ningjiabing/ningjiabing/main/github-stats.png" width="100%">
-</picture>
-
 ---
 
 <div align="center">
